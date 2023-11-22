@@ -27,7 +27,7 @@
 ### Utility
 - `/enderchest` Opens an ender chest.
 - `/grindstone` Opens a grindstone.
-- `/wastebin` Opens a chest that disposes of all its contents after closing. **WARNING! All items placed in the wastebin are unrecoverable!**
+- `/wastebin` Opens a chest like menu that disposes of all its contents after closing. **WARNING! All items placed in the wastebin are unrecoverable!**
 - `/workbench` Opens a crafting table.
 ### Weather
 - `/weather clear` Clears the weather.
