@@ -7,7 +7,8 @@ Last Updated: 2023/11/22
 ## Crafty Controller
 - Version: 4.2.1
 
-## Fabric
+## Minecraft
+- Mod Loader: Fabric
 - Version: 1.20.2
 
 ## Mods
