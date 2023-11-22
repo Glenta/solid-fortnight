@@ -1,5 +1,5 @@
 # Inventor
-###### Last Updated: 2023/11/22
+Last Updated: 2023/11/22
 
 ## OS
 - Ubuntu 22.04.3 LTS
